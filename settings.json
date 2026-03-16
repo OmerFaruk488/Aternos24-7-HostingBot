@@ -8,7 +8,7 @@
   "server": {
     "ip": "VFLSURVIVAL.aternos.me",
     "port": 32618,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -24,7 +24,7 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
